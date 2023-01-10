@@ -18,7 +18,54 @@
       <Description>A former architect battles corporate zombies,
       an evil sorceress, and her own childhood to become queen
       of the world.</Description>
+      <hola>
       <hola>Hola buenos dias</hola>
       <manana>Hola que tal </manana>
    </Book>
 </Catalog>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<deportistas>
+  <deportista>
+    <deporte tipo="Atletismo" />
+    <nombre>Jesse Owens</nombre>
+  <deportista/>
+    <deporte tipo="Natación" />
+    <nombre>Mark Spitz</nombre>
+  </deportista>
+</deportistas>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula>
+  <titulo>Con faldas y a lo loco</titulo>
+  <director>Billy Wilder</director>
+  <director>
+</pelicula>
+<pelicula>
+  <director>Leo McCarey</director>
+  <titulo>Sopa de ganso</titulo>
+</pelicula>
+<autor />barto</autor>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<factura num="27" fecha="18/12/2013">
+   <datos-emisor>
+      <nombre> Librería Perez </nombre>
+      <cif> 445555458B </cif>
+      <tlf> 690654152 </tlf>
+   </datos-emisor>
+
+   <datos-cliente>
+      <nombre> Biblioteca txantrea </nombre>
+      <cif> 2721663618A </cif>
+      <tlf> 687564162 </tlf>
+   </datos-clientes>
+
+   <detalle-factura>
+      <precio>110€</precio>
+
+   </detalle-factura>
+</factura>
+
